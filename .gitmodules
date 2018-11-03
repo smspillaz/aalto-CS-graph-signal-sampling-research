@@ -1,0 +1,3 @@
+[submodule "Active_SSL_with_Sampling_Theory"]
+	path = Active_SSL_with_Sampling_Theory
+	url = git://github.com/STAC-USC/Active_SSL_with_Sampling_Theory
